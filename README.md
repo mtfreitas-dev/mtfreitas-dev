@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Atualmente estou buscando minha primeira oporunidade como Desenvolvedor Salesforce. Aqui tenho projetos onde aplico meus conhecimentos sobre a plataforma e as suas tecnologias, como Apex, Triggers Flows, SOQL, LWC, entre outros. 
 
 
