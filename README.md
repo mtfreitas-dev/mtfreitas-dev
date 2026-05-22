@@ -1,5 +1,12 @@
-# 💫 Sobre mim:
-Atualmente estou buscando minha primeira oporunidade como Desenvolvedor Salesforce. Aqui tenho projetos onde aplico meus conhecimentos sobre a plataforma e as suas tecnologias, como Apex, Triggers Flows, SOQL, LWC, entre outros. 
+## Olá, eu sou o Matheus Freitas 👋
+
+Sou Desenvolvedor Salesforce Jr em início de carreira, com foco em desenvolvimento de soluções na plataforma Salesforce utilizando Apex, Triggers, Classes de Teste, Lightning Web Components, Salesforce Flow e SOQL/SOSL.
+
+Atualmente venho desenvolvendo automações, componentes LWC, validações de regras de negócio, customizações de objetos e projetos práticos voltados para a melhoria de processos dentro do Salesforce.
+
+Também utilizo este espaço para compartilhar meus estudos e projetos pessoais envolvendo Apex, LWC, integrações REST, consumo de APIs, Email Templates e boas práticas de desenvolvimento Salesforce.
+
+Tenho interesse em continuar evoluindo como desenvolvedor Salesforce, criando soluções organizadas, escaláveis e alinhadas às melhores práticas da plataforma.
 
 
 ## 🌐 Socials:
